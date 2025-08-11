@@ -1,6 +1,3 @@
-<img width="794" height="249" alt="svc" src="https://github.com/user-attachments/assets/17b1b452-9189-4ff9-bca9-3fb0fa4dc741" />
-<img width="815" height="202" alt="pods" src="https://github.com/user-attachments/assets/53888d4a-0a64-4ceb-bba0-378f57a572aa" />
-<img width="1919" height="1007" alt="output" src="https://github.com/user-attachments/assets/b8109e38-bc71-461a-a830-0abd323698d5" />
 # Kubernetes Minikube Deployment - Task 5
 
 ## 📌 Overview
@@ -85,5 +82,11 @@ deployment.yaml
 service.yaml
 
 Screenshots of kubectl get pods and kubectl get svc
+
+<img width="794" height="249" alt="svc" src="https://github.com/user-attachments/assets/17b1b452-9189-4ff9-bca9-3fb0fa4dc741" />
+
+<img width="815" height="202" alt="pods" src="https://github.com/user-attachments/assets/53888d4a-0a64-4ceb-bba0-378f57a572aa" />
+
+<img width="1919" height="1007" alt="output" src="https://github.com/user-attachments/assets/b8109e38-bc71-461a-a830-0abd323698d5" />
 
 This README file
